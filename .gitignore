@@ -1,1 +1,27 @@
 [Bb]uild/
+
+.vscode/*
+CMakeFiles/*
+CMakeScripts/*
+
+Glitter.build/*
+Glitter.xcodeproj/*
+lib/*
+
+Glitter/Vendor/*
+
+Glitter/Debug/*
+
+CmakeCache.txt
+
+// cmake
+*.cmake
+*.make
+*.gen.h
+
+// libs
+*.o
+*.so
+*.lib
+*.dylib
+*.a
