@@ -9,6 +9,8 @@ Glitter.xcodeproj/*
 lib/*
 
 Glitter/Vendor/*
+Glitter/Vendor/assimp/*
+Glitter/Vendor/bullet/*
 
 Glitter/Debug/*
 
